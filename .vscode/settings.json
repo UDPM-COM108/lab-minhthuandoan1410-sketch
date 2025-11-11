@@ -1,5 +1,6 @@
 {
     "files.associations": {
-        "khaibaobien.C": "cpp"
+        "khaibaobien.C": "cpp",
+        "tonggioithieu.C": "cpp"
     }
 }
