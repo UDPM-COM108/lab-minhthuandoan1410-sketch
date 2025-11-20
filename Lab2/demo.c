@@ -1,0 +1,14 @@
+#include <stdio.h>
+
+int main(){
+    float a, b, nhan, chia;
+    printf("nhap vao 2 so thuc:");
+    scanf("%f %f" , &a, &b);
+    printf("xuat ra 2 so thuc: %f %f" ,a,b);
+    nhan = a * b;
+    chia = a/b;
+    printf("nhan 2 so thuc: %.2f", nhan);
+    printf("chia 2 so thuc: %.2f", chia);
+    return 0;
+}
+
